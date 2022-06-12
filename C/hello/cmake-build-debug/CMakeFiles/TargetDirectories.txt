@@ -1,0 +1,3 @@
+D:/Git-Space/ProgrammingLangages/C/hello/cmake-build-debug/CMakeFiles/hello.dir
+D:/Git-Space/ProgrammingLangages/C/hello/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Git-Space/ProgrammingLangages/C/hello/cmake-build-debug/CMakeFiles/rebuild_cache.dir
